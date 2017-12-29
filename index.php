@@ -1,4 +1,7 @@
 <html>
+<style type="text/css">
+	background-color : black;
+</style>
 <div align="center">
 	<br><h1>PORT SCANNER</h1>
 <form action="scanner.php" method="POST"><br>
