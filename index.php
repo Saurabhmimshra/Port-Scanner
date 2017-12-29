@@ -1,6 +1,8 @@
 <html>
 <style type="text/css">
-	background-color : black;
+	body {
+		background-color : black;
+	}
 </style>
 <div align="center">
 	<br><h1>PORT SCANNER</h1>
